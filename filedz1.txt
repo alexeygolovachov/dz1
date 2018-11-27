@@ -4,3 +4,5 @@ change 2 on vetka master git
 go to vetka2+ vetka2                    
 already modified vetka2
 git commit vetka2 step2
+goto vetka3
+save vetka3
