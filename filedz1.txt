@@ -2,3 +2,4 @@ filedz1
 change on vetka master
 change 2 on vetka master git
 add onу more step on master(step3)
+end of the master at the end
